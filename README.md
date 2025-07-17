@@ -38,12 +38,7 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **Multi-page Support**: Edit across multiple PDF pages
 - **OCR Integration**: Extract text from scanned PDFs
 
-### Advanced Effects & Styling
-- **Gradient Text**: Multi-color gradient effects
-- **Text Outlines**: Customizable outline with color and width
-- **Glow Effects**: Customizable glow with color and blur
-- **Shadow Effects**: Drop shadows with offset and blur
-- **Opacity Control**: Adjustable transparency (10%-100%)
+
 
 ## 🛠️ Technology Stack
 
