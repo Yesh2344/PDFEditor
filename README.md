@@ -10,12 +10,6 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 
 ## 🚀 Features
 
-### Professional Text Editing
-- **Advanced Typography**: 10+ professional fonts with full typography controls
-- **Text Effects**: Shadows, outlines, gradients, glow effects
-- **Formatting**: Bold, italic, underline, strikethrough, text alignment
-- **Typography Features**: Small caps, all caps, opacity control
-- **Style Presets**: Pre-defined styles (Headings, Body Text, Captions, Quotes)
 
 ### Layout & Design Tools
 - **Multi-Column Layout**: Create 1-10 column text layouts
