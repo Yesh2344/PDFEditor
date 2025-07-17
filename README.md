@@ -1,4 +1,3 @@
-# Advanced PDF Editor
 
 A professional-grade PDF editing tool with advanced text editing capabilities that rival Adobe Acrobat. Built with React, Node.js, and Python FastAPI, this application provides real-time PDF editing with sophisticated typography controls, layout tools, and professional editing features.
 
