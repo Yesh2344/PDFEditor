@@ -16,7 +16,12 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **Typography Features**: Small caps, all caps, opacity control
 - **Style Presets**: Pre-defined styles (Headings, Body Text, Captions, Quotes)
 
-
+### Layout & Design Tools
+- **Multi-Column Layout**: Create 1-10 column text layouts
+- **Grid System**: Professional grid with adjustable size (5-50px)
+- **Snap to Grid**: Precise positioning and alignment
+- **Visual Guides**: Alignment guides for professional layouts
+- **Text Flow**: Auto-flow text between linked text boxes
 
 
 ### Professional Editing Tools
