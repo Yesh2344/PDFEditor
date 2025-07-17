@@ -24,12 +24,7 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **Text Flow**: Auto-flow text between linked text boxes
 
 
-### Professional Editing Tools
-- **Undo/Redo**: Full editing history with keyboard shortcuts
-- **Find & Replace**: Advanced search with regex support
-- **Copy/Paste**: Clipboard integration
-- **Text Selection**: Visual text selection with highlighting
-- **Batch Operations**: Find and replace across entire document
+
 
 ### Real-time PDF Editing
 - **Live Preview**: Real-time rendering of all changes
