@@ -61,9 +61,6 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **qpdf**: PDF optimization
 - **pypdf**: PDF manipulation
 
-## 📋 Prerequisites
-
-Before running this project, ensure you have the following installed:
 
 - **Node.js** (v16 or higher)
 - **Python** (v3.8 or higher)
