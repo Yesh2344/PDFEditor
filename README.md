@@ -48,7 +48,13 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **Canvas API**: Real-time drawing and editing
 - **CSS3**: Advanced styling and animations
 
-
+### Backend
+- **Python FastAPI**: High-performance API framework
+- **PyMuPDF**: Advanced PDF processing
+- **Tesseract OCR**: Text extraction from scanned documents
+- **LibreOffice**: Document conversion
+- **Celery**: Asynchronous task processing
+- **Redis**: Task queue management
 
 ### Additional Tools
 - **Docker**: Containerization
