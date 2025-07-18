@@ -56,10 +56,7 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **Celery**: Asynchronous task processing
 - **Redis**: Task queue management
 
-### Additional Tools
-- **Docker**: Containerization
-- **qpdf**: PDF optimization
-- **pypdf**: PDF manipulation
+
 
 ## 📋 Prerequisites
 
