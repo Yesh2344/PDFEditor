@@ -38,7 +38,9 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **Multi-page Support**: Edit across multiple PDF pages
 - **OCR Integration**: Extract text from scanned PDFs
 
+## 📋 Prerequisites
 
+Before running this project, ensure you have the following installed:
 
 ## 🛠️ Technology Stack
 
