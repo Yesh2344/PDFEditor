@@ -42,6 +42,11 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 
 ## 🛠️ Technology Stack
 
+### Frontend
+- **React 18**: Modern UI framework
+- **PDF.js**: PDF rendering and manipulation
+- **Canvas API**: Real-time drawing and editing
+- **CSS3**: Advanced styling and animations
 
 ### Backend
 - **Python FastAPI**: High-performance API framework
