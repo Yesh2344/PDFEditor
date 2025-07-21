@@ -9,7 +9,6 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-red)
 
 ## 🚀 Features
-
 ### Professional Text Editing
 - **Advanced Typography**: 10+ professional fonts with full typography controls
 - **Text Effects**: Shadows, outlines, gradients, glow effects
@@ -31,6 +30,7 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **Text Selection**: Visual text selection with highlighting
 - **Batch Operations**: Find and replace across entire document
 
+
 ### Real-time PDF Editing
 - **Live Preview**: Real-time rendering of all changes
 - **Element Selection**: Click to edit any text, image, or shape
@@ -38,12 +38,9 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **Multi-page Support**: Edit across multiple PDF pages
 - **OCR Integration**: Extract text from scanned PDFs
 
-### Advanced Effects & Styling
-- **Gradient Text**: Multi-color gradient effects
-- **Text Outlines**: Customizable outline with color and width
-- **Glow Effects**: Customizable glow with color and blur
-- **Shadow Effects**: Drop shadows with offset and blur
-- **Opacity Control**: Adjustable transparency (10%-100%)
+## 📋 Prerequisites
+
+Before running this project, ensure you have the following installed:
 
 ## 🛠️ Technology Stack
 
@@ -66,9 +63,6 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 - **qpdf**: PDF optimization
 - **pypdf**: PDF manipulation
 
-## 📋 Prerequisites
-
-Before running this project, ensure you have the following installed:
 
 - **Node.js** (v16 or higher)
 - **Python** (v3.8 or higher)
