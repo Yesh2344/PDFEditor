@@ -487,3 +487,14 @@ If you encounter any issues or have questions:
 - Undo/redo system
 - Multi-page support
 - OCR integration
+
+
+
+---
+
+**Made with ❤️ by [Your Name]**
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/advanced-pdf-editor)](https://github.com/yourusername/advanced-pdf-editor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/advanced-pdf-editor)](https://github.com/yourusername/advanced-pdf-editor/network)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/advanced-pdf-editor)](https://github.com/yourusername/advanced-pdf-editor/issues)
+[![GitHub license](https://img.shields.io/github/license/yourusername/advanced-pdf-editor)](https://github.com/yourusername/advanced-pdf-editor/blob/main/LICENSE) "# PDFEditor" 
