@@ -2,7 +2,11 @@
 
 A professional-grade PDF editing tool with advanced text editing capabilities that rival Adobe Acrobat. Built with React, Node.js, and Python FastAPI, this application provides real-time PDF editing with sophisticated typography controls, layout tools, and professional editing features.
 
-
+![PDF Editor Demo](https://img.shields.io/badge/Status-Active-brightgreen)
+![React](https://img.shields.io/badge/React-18.0-blue)
+![Node.js](https://img.shields.io/badge/Node.js-16+-green)
+![Python](https://img.shields.io/badge/Python-3.8+-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-red)
 
 ## 🚀 Features
 ### Professional Text Editing
