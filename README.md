@@ -8,7 +8,7 @@ A professional-grade PDF editing tool with advanced text editing capabilities th
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-red)
 
-## 🚀 Features
+
 ### Professional Text Editing
 - **Advanced Typography**: 10+ professional fonts with full typography controls
 - **Text Effects**: Shadows, outlines, gradients, glow effects
