@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <div style={{
       textAlign: 'center',
+# Added comment
       color: 'white',
       padding: '20px'
     }}>
