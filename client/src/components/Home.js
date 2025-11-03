@@ -10,6 +10,7 @@ const Home = () => {
       padding: '20px'
     }}>
       <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>
+# Added comment
         Advanced PDF Editor
       </h1>
       <p style={{ fontSize: '1.2rem', marginBottom: '2rem', opacity: 0.9 }}>
