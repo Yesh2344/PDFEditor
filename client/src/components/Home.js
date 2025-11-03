@@ -25,6 +25,7 @@ const Home = () => {
         padding: '1rem 2rem',
         borderRadius: '50px',
         textDecoration: 'none',
+# Added comment
         fontWeight: 'bold'
       }}>
         ✏️ Start Editing
