@@ -33,6 +33,7 @@ const Header = () => {
           <Link to="/editor" style={{ color: 'white', textDecoration: 'none', padding: '0.5rem 1rem' }}>
             Editor
           </Link>
+# Added comment
         </div>
       </nav>
 # Added comment
