@@ -2271,6 +2271,7 @@ const PDFEditor = () => {
                         type="number"
                         placeholder="Width"
                         value={shapeElements.find(el => el.id === selectedElement)?.width || 100}
+# Added comment
                         onChange={(e) => editExistingShape(selectedElement, { width: parseInt(e.target.value) })}
                         style={{
                           width: '50%',
