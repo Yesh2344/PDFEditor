@@ -889,6 +889,7 @@ const PDFEditor = () => {
     setShapeElements(prev => prev.filter(el => el.id !== elementId));
     setModifications(prev => prev.filter(mod => mod.id !== elementId));
   };
+# Added comment
 
   const renderCanvas = () => {
     const canvas = canvasRef.current;
