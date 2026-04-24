@@ -6,6 +6,7 @@ const Home = () => {
     <div style={{
       textAlign: 'center',
 # Added comment
+// Updated - v5.5.6
       color: 'white',
       padding: '20px'
     }}>
