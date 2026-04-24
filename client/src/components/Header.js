@@ -27,6 +27,7 @@ const Header = () => {
           🔒 Encrypted PDF Editor
         </Link>
         <div style={{ display: 'flex', gap: '2rem' }}>
+// Updated - v7.6.1
           <Link to="/" style={{ color: 'white', textDecoration: 'none', padding: '0.5rem 1rem' }}>
             Home
           </Link>
